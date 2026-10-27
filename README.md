@@ -1,238 +1,95 @@
-::: {align="center"}
-```{=html}
-<!-- Animated header: edit the text in the URL if you want to change the headline. -->
-```
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Satyam+Singh+%F0%9F%91%8B;Backend+Engineer+%7C+Go+%7C+Distributed+Systems;Building+reliable+backend+systems" alt="Typing SVG" />`{=html}
+<div align="center">
 
-```{=html}
-<p>
-```
-`<b>`{=html}Backend Engineer \| Go \| Distributed
-Systems`</b>`{=html}`<br/>`{=html} I enjoy building backend services and
-exploring the engineering behind reliable, scalable systems.
-```{=html}
-</p>
-```
-`<a href="https://github.com/SatyamSingh-16">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-SatyamSingh--16-181717?style=for-the-badge&logo=github" alt="GitHub"/>`{=html}
-`</a>`{=html}
-`<a href="https://github.com/SatyamSingh-16?tab=repositories">`{=html}
-`<img src="https://img.shields.io/badge/Repositories-Explore-1f6feb?style=for-the-badge&logo=github" alt="Repositories"/>`{=html}
-`</a>`{=html}
-:::
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Satyam+Singh+%F0%9F%91%8B;Backend+Engineer+%7C+Go+%7C+Distributed+Systems;Building+reliable+backend+systems" alt="Typing SVG" />
 
-------------------------------------------------------------------------
+### Backend Engineer | Go | Distributed Systems
+
+Building backend services and exploring the engineering behind reliable, scalable systems.
+
+[![GitHub](https://img.shields.io/badge/GitHub-SatyamSingh--16-181717?style=for-the-badge&logo=github)](https://github.com/SatyamSingh-16)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-1f6feb?style=for-the-badge&logo=github)](https://github.com/SatyamSingh-16?tab=repositories)
+
+</div>
+
+---
 
 ## `01 // About Me`
 
--   🔧 Focused on **backend engineering with Go** and building
-    well-structured APIs.
--   🧩 Exploring **distributed systems, microservices, gRPC, and
-    event-driven architecture**.
--   🗄️ Working with relational and document databases, including
-    **PostgreSQL and MongoDB**.
--   ⚙️ Learning and applying tools such as **Docker, Redis, Kafka, and
-    Git** across projects.
--   🌱 Interested in system design, reliability, concurrency, and the
-    trade-offs behind backend systems.
+- 🔧 Focused on **backend engineering with Go** and building well-structured APIs.
+- 🧩 Exploring **distributed systems, microservices, gRPC, and event-driven architecture**.
+- 🗄️ Working with **PostgreSQL and MongoDB**.
+- ⚙️ Exploring tools such as **Docker, Redis, Kafka, and Git** across projects.
+- 🌱 Interested in system design, reliability, concurrency, and the trade-offs behind backend systems.
 
-> I like understanding not only how to make a service work, but also how
-> it behaves under failure, load, and change.
+> I like understanding not only how to make a service work, but also how it behaves under failure, load, and change.
 
 ## `02 // Tech Stack`
 
-::: {align="center"}
-### Languages
+<div align="center">
 
-`<img src="https://skillicons.dev/icons?i=go,java,js,ts,python" alt="Go, Java, JavaScript, TypeScript, Python"/>`{=html}
+**Languages**
 
-### Backend & APIs
+<img src="https://skillicons.dev/icons?i=go,java,js,ts,python" alt="Go, Java, JavaScript, TypeScript, Python" />
 
-`<img src="https://skillicons.dev/icons?i=nodejs,express,gin,graphql" alt="Node.js, Express, Gin, GraphQL"/>`{=html}
+**Backend & APIs**
 
-### Databases & Messaging
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" alt="Node.js, Express, GraphQL" />
 
-`<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka" alt="PostgreSQL, MongoDB, Redis, Kafka"/>`{=html}
+**Databases & Messaging**
 
-### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka" alt="PostgreSQL, MongoDB, Redis, Kafka" />
 
-`<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" alt="Docker, Git, GitHub, Linux, VS Code"/>`{=html}
-:::
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" alt="Docker, Git, GitHub, Linux, VS Code" />
+
+</div>
 
 ## `03 // Featured Projects`
 
-```{=html}
-<table>
-```
-```{=html}
-<thead>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<th>
-```
-Project
-```{=html}
-</th>
-```
-```{=html}
-<th>
-```
-What it explores
-```{=html}
-</th>
-```
-```{=html}
-<th>
-```
-Stack
-```{=html}
-</th>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</thead>
-```
-```{=html}
-<tbody>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<b>`{=html}`<a href="https://github.com/SatyamSingh-16/GymTracker">`{=html}GymTracker`</a>`{=html}`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-A gym-tracking application. See the repository for the implemented
-features and architecture.
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-Go · gRPC · Protocol Buffers
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<b>`{=html}Distributed Code Execution Platform`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-A backend project focused on submission handling, PostgreSQL
-persistence, worker-pool concurrency, queued jobs, and graceful worker
-shutdown.
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-Go · PostgreSQL · Worker Pools
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<b>`{=html}E-commerce Microservices`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-An event-driven system design project exploring service boundaries,
-REST/Kafka communication, stock reservation, and payment-event flows.
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-Go · Kafka · MongoDB · Docker
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</tbody>
-```
-```{=html}
-</table>
-```
-```{=html}
-<!--
-Before publishing:
-1. Add the real repository URL for Distributed Code Execution Platform.
-2. Add the real repository URL for E-commerce Microservices.
-3. Verify that the project descriptions and listed technologies match the current code.
-Do not replace these names with guessed URLs.
--->
-```
+| Project | What it explores | Stack |
+|---|---|---|
+| [**GymTracker**](https://github.com/SatyamSingh-16/GymTracker) | Gym-tracking application. Check the repository for implemented features and architecture. | Go · gRPC · Protocol Buffers |
+| **Distributed Code Execution Platform** | Submission handling, PostgreSQL persistence, worker-pool concurrency, queued jobs, and graceful worker shutdown. | Go · PostgreSQL · Worker Pools |
+| **E-commerce Microservices** | Event-driven architecture, REST/Kafka communication, stock reservation, and payment-event flows. | Go · Kafka · MongoDB · Docker |
+
+> **Before publishing:** Add the actual repository links for Distributed Code Execution Platform and E-commerce Microservices. Verify each project's listed stack and features against its current code.
+
 ## `04 // GitHub Stats`
 
-::: {align="center"}
-`<img height="180" src="https://github-readme-stats.vercel.app/api?username=SatyamSingh-16&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub stats"/>`{=html}
+<div align="center">
 
-`<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamSingh-16&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>`{=html}
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SatyamSingh-16&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub stats" />
 
-`<img height="180" src="https://streak-stats.demolab.com?user=SatyamSingh-16&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>`{=html}
-:::
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamSingh-16&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+
+<img height="180" src="https://streak-stats.demolab.com?user=SatyamSingh-16&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+
+</div>
 
 ## `05 // Contribution Graph`
 
-::: {align="center"}
-```{=html}
-<!-- The snake image is generated by the GitHub Actions workflow described below. -->
-```
-`<img src="https://raw.githubusercontent.com/SatyamSingh-16/SatyamSingh-16/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph snake animation"/>`{=html}
-:::
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SatyamSingh-16/SatyamSingh-16/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+</div>
 
 ## `06 // Currently Exploring`
 
--   Distributed systems fundamentals and system design
--   Go backend architecture, concurrency, and service communication
--   Reliable asynchronous processing and event-driven systems
--   Containers, infrastructure, and production-minded development
+- Distributed systems fundamentals and system design
+- Go backend architecture, concurrency, and service communication
+- Reliable asynchronous processing and event-driven systems
+- Containers, infrastructure, and production-minded development
 
-------------------------------------------------------------------------
+---
 
-::: {align="center"}
-### `BUILD  •  LEARN  •  DEBUG  •  REPEAT`
+<div align="center">
 
-Thanks for visiting my profile. Feel free to explore my repositories and
-connect!
+### `BUILD • LEARN • DEBUG • REPEAT`
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" alt="Decorative footer"/>`{=html}
-:::
+Thanks for visiting my profile. Feel free to explore my repositories and connect!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" alt="Decorative footer" />
+
+</div>
