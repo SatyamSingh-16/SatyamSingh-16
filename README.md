@@ -98,18 +98,6 @@ I build backend services and explore the engineering behind reliable, scalable s
 
 > Add the actual GitHub repository URLs for CodeExecutor and Student API to make those project names clickable. I have not guessed their URLs.
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SatyamSingh-16&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamSingh-16&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages" />
-
-<img height="180" src="https://streak-stats.demolab.com?user=SatyamSingh-16&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
 
 ## Contribution Activity
 
