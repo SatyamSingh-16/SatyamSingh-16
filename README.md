@@ -104,13 +104,31 @@ I build backend services and explore the engineering behind reliable, scalable s
 
 </div>
 
+
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SatyamSingh-16/SatyamSingh-16/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+<h2>🐍 Contribution Graph</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SatyamSingh-16/SatyamSingh-16/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SatyamSingh-16/SatyamSingh-16/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man contribution graph animation"
+    src="https://raw.githubusercontent.com/SatyamSingh-16/SatyamSingh-16/output/pacman-contribution-graph.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
+
 
 ## Currently Exploring
 
