@@ -48,6 +48,7 @@ I build backend services and explore the engineering behind reliable, scalable s
 
 **Also working with:** SQL, REST, gRPC, Protocol Buffers, JWT, Socket.IO, Server-Sent Events (SSE).
 
+
 ## Featured Projects
 
 <table>
@@ -72,7 +73,9 @@ I build backend services and explore the engineering behind reliable, scalable s
       <td>Oct 2026</td>
     </tr>
     <tr>
-      <td><strong>CodeExecutor</strong></td>
+      <td>
+        <strong><a href="https://github.com/SatyamSingh-16/CodeExecutor">CodeExecutor</a></strong>
+      </td>
       <td>
         Go code-execution platform that runs submitted code in isolated Docker containers. Includes asynchronous job processing with Redis Streams, live submission updates through SSE, PostgreSQL persistence, JWT authentication middleware, and an Nginx reverse proxy.
       </td>
@@ -80,7 +83,9 @@ I build backend services and explore the engineering behind reliable, scalable s
       <td>Oct 2026</td>
     </tr>
     <tr>
-      <td><strong>Student API</strong></td>
+      <td>
+        <strong><a href="https://github.com/SatyamSingh-16/Student-API">Student API</a></strong>
+      </td>
       <td>
         RESTful API built with Go and Gin to manage student resources, with structured request handling and JSON responses. Includes JWT authentication, role-based authorization, and a layered handler/service/data structure backed by PostgreSQL.
       </td>
@@ -89,6 +94,7 @@ I build backend services and explore the engineering behind reliable, scalable s
     </tr>
   </tbody>
 </table>
+
 
 > Add the actual GitHub repository URLs for CodeExecutor and Student API to make those project names clickable. I have not guessed their URLs.
 
