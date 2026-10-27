@@ -96,7 +96,6 @@ I build backend services and explore the engineering behind reliable, scalable s
 </table>
 
 
-> Add the actual GitHub repository URLs for CodeExecutor and Student API to make those project names clickable. I have not guessed their URLs.
 
 
 ## Contribution Activity
